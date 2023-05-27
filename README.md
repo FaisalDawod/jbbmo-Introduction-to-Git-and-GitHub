@@ -26,4 +26,4 @@ Output:
 ```
 
 ### License
-This project is licensed under the © 2021 XYZ, Inc. License.
+This project is licensed under the © 2022 XYZ, Inc. License.
